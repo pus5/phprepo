@@ -1,3 +1,3 @@
 <?php
-      echo "Modified to test This is a PHP-Based Web App week 8";
+      echo " Latest PHP App Deployed on OpenShift Cluster using S2I";
 ?>
